@@ -12,6 +12,9 @@
 
 ## Bibliothèque
 
+- PYSWIP
+- PROLOG
+
 ## Références 
 
 ## Difficultés
