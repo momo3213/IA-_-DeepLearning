@@ -15,13 +15,14 @@
 - Matplotlib
 - NumPy
 - Scikit-learn
+- Seaborn
 
 ## Difficultés
 
-Exo 1 : facile
-Exo 2 : intermédiaire 
-Exo 3 : intermédiaire
-Exo 4 :
+- Exo 1 : facile
+- Exo 2 : intermédiaire 
+- Exo 3 : intermédiaire
+- Exo 4 :
 
 ## Remarques
 
