@@ -7,10 +7,29 @@
 - BeautifulSoup
 - Requests
 - Collections 
--  Re
+- Re
 - Spacy
 
+## Difficultés
+
+- Exo 1 : facile
+- Exo 2 : facile
+- Exo 3 : intermédiaire
+- Exo 4 : intermédiaire
+- Exo 5 : difficile
+
 ## Remarques 
+
+Exercice 1 : Prise en main des expressions logiques et des propositions composées intuitive. Pas de problème particulier.
+
+Exercice 2 : Utilisation des propositions logiques assez simple, les résultats sont corrects.
+
+Exercicei 3 : L'ajout des contraintes n'a pas posé de problèmes, les résultats obtenus sont cohérents.
+
+Exercice 4 : Téléchargement et exploitation d'une page html. Les résultats sont satisfaisants. 
+
+Exercice 5 : Analyse de la page html à l'aide des outils suivants : Algorithme de Stemming, extraction de N-grammes, PoS, Lemmatisation, analyse morphologique, reconnaissance de NER. Enfin nous avons visualisé les fréquences d'apparition par différents moyens.
+
 
 # TP2
 
