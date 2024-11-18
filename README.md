@@ -1,6 +1,6 @@
 # TP1
 
-## Bibliothèque
+## Bibliothèques
 
 - Pandas 
 - z3
@@ -34,7 +34,7 @@ Exercice 5 : Analyse de la page html à l'aide des outils suivants : Algorithme 
 
 # TP2
 
-## Bibliothèque
+## Bibliothèques
 
 - PySwip
 - TensorFlow / Keras
@@ -66,7 +66,7 @@ Je n'arrive pas à obtenir une accuracy et un test loss satisfaisants malgré l'
 
 # TP3
 
-## Bibliothèque
+## Bibliothèques
 
 - TensorFlow / Keras
 - Pandas
