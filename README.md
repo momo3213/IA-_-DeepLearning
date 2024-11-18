@@ -16,13 +16,14 @@
 - NumPy
 - Scikit-learn
 - Seaborn
+- Pandas
 
 ## Difficultés
 
 - Exo 1 : facile
 - Exo 2 : intermédiaire 
 - Exo 3 : intermédiaire
-- Exo 4 :
+- Exo 4 : difficile 
 
 ## Remarques
 
@@ -33,6 +34,9 @@ Lors de l'entraînement initial, les résultats obtenus avec les hyperparamètre
 
 Exercice 3 (Classification d'images CIFAR-10) :
 Contrairement à l'exercice 2, le modèle conçu avec les couches et hyperparamètres initialement définis a donné des performances satisfaisantes dès le premier entraînement. Il n'a donc pas été nécessaire d'optimiser davantage l'architecture ou les hyperparamètres pour cet exercice
+
+Exercice 4 :
+Je n'arrive pas à obtenir une accuracy et un test loss satisfaisants malgré l'augmentation de certains hyperparamètres (notament le batch) et la modification de certaines couches de mon modèle.
 
 # TP3
 
