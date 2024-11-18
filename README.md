@@ -9,6 +9,7 @@
 - Collections 
 -  Re
 - Spacy
+- NLTK
 
 ## Remarques 
 
@@ -48,8 +49,28 @@ Je n'arrive pas à obtenir une accuracy et un test loss satisfaisants malgré l'
 
 ## Bibliothèque
 
-## Références 
+- TensorFlow / Keras
+- Pandas
+- Matplotlib
+- NumPy
+- Scikit-learn
+- Librosa
 
 ## Difficultés
 
+- Exo 1 : facile
+- Exo 2 : difficile
+- Exo 3 : intermédiaire
+- Exo 4 : difficile 
+
 ## Remarques
+
+Des observations détaillant les différentes visualisations obtenues après l'entraînement et l'évaluation des modèles ont été ajoutées.
+
+Exercice 4 : 
+Lors de la génération des spectrogrammes, les données contenaient des valeurs NaN, rendant l'entraînement impossible. 
+Plusieurs hypothèses ont été explorées :
+-Problème lors de la normalisation ou de la conversion en échelle logarithmique (power_to_db).
+-Erreur dans le prétraitement des fichiers audio (durée fixe ou padding mal appliqué).
+-Problème non détecté dans les fichiers audio sources.
+Malgré ces investigations, le problème persiste, laissant le modèle non fonctionnel à ce stade.
