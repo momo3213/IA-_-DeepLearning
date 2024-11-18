@@ -2,7 +2,13 @@
 
 ## Bibliothèque
 
-## Difficultés
+- Pandas 
+- z3
+- BeautifulSoup
+- Requests
+- Collections 
+-  Re
+- Spacy
 
 ## Remarques 
 
